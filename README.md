@@ -5,7 +5,7 @@
 ## Introduction
 Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, Clerk Auth.
 
-The e-commerce admin dashboard is a user interface specifically designed to manage and control the operations of an online store or e-commerce platform.
+The e-commerce store is a user interface to sell your products, The content is dynamically customized in your admin dashboard.
 
 ### Tech Stack 💻 :
 - NextJS
