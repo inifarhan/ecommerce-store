@@ -3,18 +3,15 @@
 ![Ecommerce-store](https://i.postimg.cc/YSMCQFmq/ecommerce-store-1.png)
 
 ## Introduction
-Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, Clerk Auth.
-
-The e-commerce store is a user interface to sell your products, The content is dynamically customized in your admin dashboard.
+E-commerce store allows the user to buy the product with [Stripe](https://stripe.com/) payment that you make in [Ecommerce-admin](https://github.com/inifarhan/ecommerce-admin).
+The content in this application is dynamically customized in the [Ecommerce-admin](https://github.com/inifarhan/ecommerce-admin) too.
 
 ### Tech Stack 💻 :
 - NextJS
 - React
 - TailwindCSS
-- Mysql
-- Prisma
-- Clerk Auth
-- ShadcnUI
+- Stripe
+- HeadlessUI
 
 ### Cloning the repository
 
